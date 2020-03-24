@@ -1,4 +1,5 @@
 package com.example.myapplication;
 
 public class C7 {
+int test;
 }
