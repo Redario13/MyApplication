@@ -1,9 +1,9 @@
 package com.example.myapplication;
 
 public class C7 {
-int test;
+int test1;
 
-    public int getTest() {
-        return test;
+    public int getTest1() {
+        return test1;
     }
 }
